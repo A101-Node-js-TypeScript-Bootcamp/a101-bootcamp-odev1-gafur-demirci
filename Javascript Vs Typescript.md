@@ -166,15 +166,15 @@ server.listen(port, hostname, () => {
 
 ##### Faydalı Linkler (Js Vs Ts)
 
-[(120+ Saat) Komple Uygulamalı Web Geliştirme Eğitimi | Udemy][udemy]
-[TypeScript Kursu | Yeni Başlayanlar İçin Typescript - YouTube][youtube1]
-[1 VİDEODA TYPESCRIPT - YouTube][youtube2]
-[1 Videoda Javascript Temellerini Öğrenin - YouTube][youtube3]
+- [(120+ Saat) Komple Uygulamalı Web Geliştirme Eğitimi | Udemy][udemy]
+- [TypeScript Kursu | Yeni Başlayanlar İçin Typescript - YouTube][youtube1]
+- [1 VİDEODA TYPESCRIPT - YouTube][youtube2]
+- [1 Videoda Javascript Temellerini Öğrenin - YouTube][youtube3]
 
 ##### Faydalı Linkler (Node.js)
-[Node.js Öğrenmek İsteyenler İçin][nodejsdev]
-[Node.js Hakkında Detaylı Bilgiler][nodejsorg]
-[Kısa kısa node.js kullanım örnekleri][w3]
+- [Node.js Öğrenmek İsteyenler İçin][nodejsdev]
+- [Node.js Hakkında Detaylı Bilgiler][nodejsorg]
+- [Kısa kısa node.js kullanım örnekleri][w3]
 
 [udemy]: <https://www.udemy.com/course/komple-web-developer-kursu/>
 [youtube1]: <https://www.youtube.com/watch?v=1d92ipW7Mx8>
